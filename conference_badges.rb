@@ -11,6 +11,6 @@ def batch_badge_creator(array_names)
   return new_array
 end
 
-def assign_rooms(speakers)
-  
+def assign_rooms(name, number)
+  "Hello #{name}! You'll be assigned to room #{number}"
 end
