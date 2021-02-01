@@ -29,3 +29,4 @@ def printer(array_names)
     puts badge
   end
 end
+
