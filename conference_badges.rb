@@ -14,6 +14,6 @@ end
 def assign_rooms(array)
   new array = []
   counter = 1 
-  
+  array.each do |
   "Hello #{name}! You'll be assigned to room #{number}"
 end
